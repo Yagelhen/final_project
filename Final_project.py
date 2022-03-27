@@ -1,5 +1,5 @@
 #############################################################
-####### code that save the data locally in the machine #######
+####### code that save the data locally in the machine ######
 #############################################################
 
 import json
